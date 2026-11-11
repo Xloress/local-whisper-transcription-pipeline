@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:05,420
+Selamat pagi rekan-rekan mahasiswa sekalian. Hari ini kita akan melanjutkan pembahasan
+
+2
+00:00:05,420 --> 00:00:11,800
+mengenai sistem modulasi dan teknik pengkodean sinyal pada jaringan telekomunikasi seluler.
+
+3
+00:00:11,800 --> 00:00:18,250
+Seperti yang sudah kita ketahui, pada perambatan gelombang radio frekuensi tinggi,
+
+4
+00:00:18,250 --> 00:00:24,900
+redaman dan interferensi multi-jalur menjadi tantangan utama yang harus kita atasi
+
+5
+00:00:24,900 --> 00:00:31,500
+melalui perancangan filter yang optimal dan algoritma kompresi data yang efisien.
